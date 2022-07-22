@@ -2,4 +2,4 @@
 
 Android Development / Kotlin Tutorial - Lesson 5
 
-SharedPreferences | Data
+SharedPreferences
