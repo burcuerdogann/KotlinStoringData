@@ -1,4 +1,4 @@
-# StoringDataKotlin
+# KotlinStoringData
 
 Android Development / Kotlin Tutorial - Lesson 5
 
